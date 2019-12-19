@@ -1,5 +1,6 @@
 *.sqlite3
 venv/
-*/*/*/*.pyc
-*/*/*/*/*.pyc
+apps/empresas/__pycache__/__init__.cpython-38.pyc
+*.pyc
+
 
