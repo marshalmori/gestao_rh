@@ -1,4 +1,9 @@
 *.sqlite3
 venv/
 *.pyc
+<<<<<<< HEAD
 
+=======
+gestao_rh/__pycache__/
+apps/empresas/__pycache__/
+>>>>>>> dfd8d73a2e05e49c7b34d273f900f890d25abe18
