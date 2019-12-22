@@ -3,4 +3,4 @@ from django.shortcuts import render
 
 
 def home(request):
-    return HttpResponse('Home')
+    return HttpResponse('Página dos Funcionários')
